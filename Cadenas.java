@@ -1,5 +1,7 @@
+//Nombre de la clase
 public class Cadenas{
 	public static void main(String[] args){
+		//Variables a utilizar
 		String nombre = "Roberto";
 		String apellido = "Guerrero";
 		System.out.println("Concatenacion: "+nombre+apellido);
