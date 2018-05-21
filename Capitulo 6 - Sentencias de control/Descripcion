@@ -1,0 +1,8 @@
+En este directorio se encuentran los archivos para aprender a utilizar las sentencias de control if, if-else, switch y if-else anidado.
+
+Se encuentran 4 clases:
+  - Clase If
+  - Clase IfElse
+  - Clase IfElseIfElse
+  - Clase CalculaMes
+  - Clase CalculaMesSwitch
